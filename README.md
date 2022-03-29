@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://www.loom.com/share/69d0502adafe4b5bb2fde048d8c26e0c?sharedAppSource=personal_library)
-![](https://www.loom.com/share/78c57747bdb34dc19dbb4b026fae1b87?sharedAppSource=personal_library)
+https://www.loom.com/share/69d0502adafe4b5bb2fde048d8c26e0c?sharedAppSource=personal_library
+https://www.loom.com/share/78c57747bdb34dc19dbb4b026fae1b87?sharedAppSource=personal_library
 
 
 ## Reflection Questions
