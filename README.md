@@ -46,13 +46,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+Yes the source I have use to create gifs is Loom, also I have use glich and hackmd. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+Overall the submission and finishing of the task were very clear from the explanation and steps in the assignment. I learned new stuff by using some new websites which are quite helpful such as gliche I did not hear about it before. This exercise was helpful for me I learned a lot of stuff even though it took me a little bit longer than expected to finish I am really happy than finally finish it successfully. I had a little bit hard time following the pace, especially in the coding part since sometimes I was confused about what was required for the project. Also, another thing that sometimes makes me think are the resources given for assignment are different from what the problem is asking to slove
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I do not have any specific questions related to the coding part. Even though I have sometimes a little bit hard time figuring out the javascript section, the resource you offered to us helped me figure out what I should do and how to slow the problem. The hard time mostly was in fixing buttons when to start and stoping the game. This exercise was helpful for me because I got a better understanding and practice in the development part. Now I feel more secure when creating a user interface how to manage when the user interacts with the game and how many times got terminated. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
