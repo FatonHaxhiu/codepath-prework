@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://www.loom.com/share/69d0502adafe4b5bb2fde048d8c26e0c?sharedAppSource=personal_library
-https://www.loom.com/share/78c57747bdb34dc19dbb4b026fae1b87?sharedAppSource=personal_library
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67721504/160638603-a27d9040-236a-456d-a509-641305cf562f.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/67721504/160638840-3e8637af-9e6f-4b05-848e-c837cc866f85.gif)
 
 
 ## Reflection Questions
