@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Faton Haxhiu
 
-Time spent: **#** hours spent in total
+Time spent: 8 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/light-and-sound-memory-gamee 
 
 ## Required Functionality
 
@@ -39,10 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://www.loom.com/share/69d0502adafe4b5bb2fde048d8c26e0c?sharedAppSource=personal_library)
+![](https://www.loom.com/share/78c57747bdb34dc19dbb4b026fae1b87?sharedAppSource=personal_library)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -61,12 +60,12 @@ I do not have any specific questions related to the coding part. Even though I h
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://www.loom.com/share/4fb0d5e78b2349c99b65813470e6ec9a
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Faton Haxhiu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
