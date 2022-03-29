@@ -55,7 +55,7 @@ Overall the submission and finishing of the task were very clear from the explan
 I do not have any specific questions related to the coding part. Even though I have sometimes a little bit hard time figuring out the javascript section, the resource you offered to us helped me figure out what I should do and how to slow the problem. The hard time mostly was in fixing buttons when to start and stoping the game. This exercise was helpful for me because I got a better understanding and practice in the development part. Now I feel more secure when creating a user interface how to manage when the user interacts with the game and how many times got terminated. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had more time to work on the project I would some other features in the project like counting the score and adding different gifts to the winner. Also, I would add the highest score to show in the result and compare it with the score of the current player. Also, I would add some other features for a better user interface. This would help the player may be to find the game more attractive. Another thing that I think would make the game more interesting is to make it where they can play the game with more than one person and friends can play with each other and make competitor games. 
 
 
 
